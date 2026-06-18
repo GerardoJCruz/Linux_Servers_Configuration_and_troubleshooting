@@ -22,8 +22,5 @@ The project consist in a list of production style tickets to  mirror a lifecycle
 ## Project Structure:
  
 Linux_Servers_Configuration_and_troubleshooting
-|--README.md
-|--tickets/
-|--images/
-|--automations/
-|--troubleshooting/
+
+![Project_Tree](/images/project_tree/project_tree.jpg)
