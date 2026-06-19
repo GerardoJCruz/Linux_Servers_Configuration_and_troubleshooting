@@ -19,6 +19,10 @@ The project consist in a list of production style tickets to  mirror a lifecycle
 - Containers. 
 - Secure connections.
 
+## Servers:
+servera.lab.local: REHL9.7 Server - Main Server
+serverb.lab.local: AlmaLinux9 Server - Secondary Server
+
 ## Project Structure:
  
 Linux_Servers_Configuration_and_troubleshooting
