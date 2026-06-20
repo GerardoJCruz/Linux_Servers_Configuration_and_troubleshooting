@@ -23,7 +23,7 @@ In this case, the disk selected is /dev/vdc
 ![Phisical Volume](/images/ticket_6/new_phisical_volume.jpg)
 
 ### Volume Group Extended:
-![Volume Group](/volume_group_extended.jpg)
+![Volume Group](/images/ticket_6/volume_group_extended.jpg)
 
 ### Logical Volume Extended and filesystem resized:
 ![Logical Volume](/images/ticket_6/logical_volume_extended_and_verify.jpg)
